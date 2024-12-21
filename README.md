@@ -20,7 +20,9 @@ Características Principales:
 -	**Medición de Humedad y Temperatura:** Proporciona mediciones digitales de humedad relativa y temperatura ambiente.
 - **Bajo Consumo de Energía:** Opera con un bajo consumo de energía, lo que lo hace adecuado para aplicaciones con restricciones de energía.
 - **Tiempo de Respuesta Rápido:** Proporciona mediciones actualizadas en intervalos cortos de tiempo.
-Aplicaciones Comunes:
+
+ Aplicaciones Comunes:
+
 - Sistemas de monitoreo de clima interior y exterior.
 - Proyectos de automatización del hogar.
 - Dispositivos de control ambiental y climatización.
