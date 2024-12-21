@@ -33,4 +33,10 @@ Características Principales:
 
 - ![]( https://github.com/leal-97/ESP32-con-sensor-DHT22/blob/main/dht22.webp )
 
-- 
+
+## Material
+- https://wokwi.com/
+- ESP32
+- DHT22
+
+## Instrucciones:
