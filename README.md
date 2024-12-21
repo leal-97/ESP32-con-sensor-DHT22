@@ -13,6 +13,10 @@ Aplicaciones Comunes:
 2.	**Sistemas Embebidos:** Puede ser utilizado en sistemas embebidos para controlar y monitorear dispositivos.
 3.	**Desarrollo de Prototipos:** Ampliamente utilizado en el desarrollo de prototipos debido a su facilidad de programación y su capacidad de conexión a una variedad de dispositivos.
 
+
+![]( https://github.com/leal-97/ESP32-con-sensor-DHT22/blob/main/esp32.webp )
+
+
 ## Sensor DHT22
 El DHT22 es un sensor digital de humedad y temperatura que ofrece mediciones precisas y de alta calidad. Está compuesto por un pequeño circuito integrado y un sensor capacitivo de humedad y temperatura. 
 Es ampliamente utilizado en aplicaciones que requieren un monitoreo preciso del entorno.
@@ -26,3 +30,7 @@ Características Principales:
 - Sistemas de monitoreo de clima interior y exterior.
 - Proyectos de automatización del hogar.
 - Dispositivos de control ambiental y climatización.
+
+- ![]( https://github.com/leal-97/ESP32-con-sensor-DHT22/blob/main/dht22.webp )
+
+- 
