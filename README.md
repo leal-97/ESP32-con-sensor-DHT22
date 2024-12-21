@@ -88,6 +88,10 @@ void loop() {
 
 ![]( https://github.com/leal-97/ESP32-con-sensor-DHT22/blob/main/resultado.jpeg )
 
+## Referencias
+
+- ESP32 30 Pines. (s.f.). Transtronix. https://transtronix.com.mx/productos/esp32-30-pines/?srsltid=AfmBOoo9Q1Vc1XVCLC0ZsFSZCIyZ97hdDYoH6Qf2gwDvs2M-5pUDvXv5
+- Sensor de humedad y temperatura DHT22. (s.f.). Transtronix. https://transtronix.com.mx/productos/sensor-de-humedad-y-temperatura-dht22/?srsltid=AfmBOoo2GcDGu0hr44E75_ZvkYeEb_3f_b8i974KTgGTsq6kfgWZMjGH
 
 ## Créditos
 Desarrollado por: **Ing. Mecánico Eduardo Leal**
