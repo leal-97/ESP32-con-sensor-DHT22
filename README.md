@@ -42,6 +42,9 @@ Características Principales:
 ## Instrucciones:
 - **1.- Entrar al siguiente enlace:** https://wokwi.com/
 - **2-. Seleccionar la tarjeta ESP32**
+
+![]( https://github.com/leal-97/ESP32-con-sensor-DHT22/blob/main/esp32kd.jpeg )
+  
 - **3.- Bajar el curso hasta starter templates y seleccionar ESP32 una vez más**
 - **4.- En el cuadro de programación borrar el código default y pegar este:**
 
