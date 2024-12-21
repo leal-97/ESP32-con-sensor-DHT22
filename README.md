@@ -45,7 +45,11 @@ Características Principales:
 
 ![]( https://github.com/leal-97/ESP32-con-sensor-DHT22/blob/main/esp32kd.jpeg )
   
-- **3.- Bajar el curso hasta starter templates y seleccionar ESP32 una vez más**
+- **3.- Bajar el cursor hasta starter templates y seleccionar ESP32 una vez más**
+
+![]( https://github.com/leal-97/ESP32-con-sensor-DHT22/blob/main/starter.jpeg )
+
+
 - **4.- En el cuadro de programación borrar el código default y pegar este:**
 
 ```
@@ -75,13 +79,22 @@ void loop() {
 - LiquidCristal IC2
 - DHT sensor library for ESPx
 
+![]( https://github.com/leal-97/ESP32-con-sensor-DHT22/blob/main/libreria.jpeg )
+
+
 - 6.- Seleccionar el sensor en la parte de Simulacion con el botón **+** y buscar **DHT22**, **LCDI2C**. Agregar y conectar de la siguiente manera.
+
+![]( https://github.com/leal-97/ESP32-con-sensor-DHT22/blob/main/conexion.jpeg )
+
 
 ## Instrucción de operación:
 - Correr el simulador
 - Manipular los valores del sensor para observar los resultados de la medición arrojados
 
 ## Resultados
+
+![]( https://github.com/leal-97/ESP32-con-sensor-DHT22/blob/main/resultado.jpeg )
+
 
 ## Créditos
 Desarrollado por: **Ing. Mecánico Eduardo Leal**
