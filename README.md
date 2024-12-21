@@ -43,7 +43,7 @@ Características Principales:
 - **1.- Entrar al siguiente enlace:** https://wokwi.com/
 - **2-. Seleccionar la tarjeta ESP32**
 - **3.- Bajar el curso hasta starter templates y seleccionar ESP32 una vez más**
-- **4.- En el cuadro de programación borrar el código default y pegar este:
+- **4.- En el cuadro de programación borrar el código default y pegar este:**
 
 ```
  #include "DHTesp.h"
@@ -68,11 +68,11 @@ void loop() {
 
 ```
 
-- **5.- En la sección de library manager buscar las siguientes librerías y agregarlas:
+- **5.- En la sección de library manager buscar las siguientes librerías y agregarlas:**
 - LiquidCristal IC2
 - DHT sensor library for ESPx
 
-- 6.- Seleccionar el sensor en la parte de Simulacion con el botoón **+** y buscar **DHT22**, **LCDI2C**. Agregar y conectar de la siguiente manera.
+- 6.- Seleccionar el sensor en la parte de Simulacion con el botón **+** y buscar **DHT22**, **LCDI2C**. Agregar y conectar de la siguiente manera.
 
 ## Instrucción de operación:
 - Correr el simulador
