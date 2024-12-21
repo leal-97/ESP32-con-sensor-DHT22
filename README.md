@@ -40,3 +40,4 @@ Características Principales:
 - DHT22
 
 ## Instrucciones:
+- **1.- Entrar al siguiente enlace:** https://wokwi.com/
