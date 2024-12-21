@@ -41,3 +41,46 @@ Características Principales:
 
 ## Instrucciones:
 - **1.- Entrar al siguiente enlace:** https://wokwi.com/
+- **2-. Seleccionar la tarjeta ESP32**
+- **3.- Bajar el curso hasta starter templates y seleccionar ESP32 una vez más**
+- **4.- En el cuadro de programación borrar el código default y pegar este:
+
+```
+ #include "DHTesp.h"
+
+const int DHT_PIN = 15; // Pin de conexión del sensor
+DHTesp dhtSensor; // Instancia del sensor
+
+void setup() {
+
+  Serial.begin(115200); // Inicialización del puerto serie
+  dhtSensor.setup(DHT_PIN, DHTesp::DHT22); // Configura el sensor DHT22 en el pin especificado
+}
+
+void loop() {
+  
+  TempAndHumidity data = dhtSensor.getTempAndHumidity(); // Obtiene datos de temperatura y humedad
+  Serial.println("Temp: " + String(data.temperature, 1) + "°C"); // Muestra la temperatura
+  Serial.println("Humidity: " + String(data.humidity, 1) + "%"); // Muestra la humedad
+  Serial.println("---"); // Separador de lecturas
+  delay(1000); // Espera 1 segundo antes de tomar otra lectura
+}
+
+```
+
+- **5.- En la sección de library manager buscar las siguientes librerías y agregarlas:
+- LiquidCristal IC2
+- DHT sensor library for ESPx
+
+- 6.- Seleccionar el sensor en la parte de Simulacion con el botoón **+** y buscar **DHT22**, **LCDI2C**. Agregar y conectar de la siguiente manera.
+
+## Instrucción de operación:
+- Correr el simulador
+- Manipular los valores del sensor para observar los resultados de la medición arrojados
+
+## Resultados
+
+## Créditos
+Desarrollado por: **Ing. Mecánico Eduardo Leal**
+
+- https://github.com/leal-97
