@@ -17,12 +17,9 @@ Aplicaciones Comunes:
 El DHT22 es un sensor digital de humedad y temperatura que ofrece mediciones precisas y de alta calidad. Está compuesto por un pequeño circuito integrado y un sensor capacitivo de humedad y temperatura. 
 Es ampliamente utilizado en aplicaciones que requieren un monitoreo preciso del entorno.
 Características Principales:
-1.	Medición de Humedad y Temperatura:
-•	Proporciona mediciones digitales de humedad relativa y temperatura ambiente.
-2.	Bajo Consumo de Energía:
-•	Opera con un bajo consumo de energía, lo que lo hace adecuado para aplicaciones con restricciones de energía.
-3.	Tiempo de Respuesta Rápido:
-•	Proporciona mediciones actualizadas en intervalos cortos de tiempo.
+-	**Medición de Humedad y Temperatura:** Proporciona mediciones digitales de humedad relativa y temperatura ambiente.
+- **Bajo Consumo de Energía:** Opera con un bajo consumo de energía, lo que lo hace adecuado para aplicaciones con restricciones de energía.
+- **Tiempo de Respuesta Rápido:** Proporciona mediciones actualizadas en intervalos cortos de tiempo.
 Aplicaciones Comunes:
 - Sistemas de monitoreo de clima interior y exterior.
 - Proyectos de automatización del hogar.
