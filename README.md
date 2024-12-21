@@ -24,6 +24,6 @@ Características Principales:
 3.	Tiempo de Respuesta Rápido:
 •	Proporciona mediciones actualizadas en intervalos cortos de tiempo.
 Aplicaciones Comunes:
-•	Sistemas de monitoreo de clima interior y exterior.
-•	Proyectos de automatización del hogar.
-•	Dispositivos de control ambiental y climatización.
+- Sistemas de monitoreo de clima interior y exterior.
+- Proyectos de automatización del hogar.
+- Dispositivos de control ambiental y climatización.
